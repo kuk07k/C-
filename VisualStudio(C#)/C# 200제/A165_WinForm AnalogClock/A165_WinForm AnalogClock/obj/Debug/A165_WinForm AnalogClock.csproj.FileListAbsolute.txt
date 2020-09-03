@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A165_WinForm AnalogClock\A165_WinForm AnalogClock\bin\Debug\A171_WinForm AnalogClock.exe.config
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A165_WinForm AnalogClock\A165_WinForm AnalogClock\bin\Debug\A171_WinForm AnalogClock.exe
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A165_WinForm AnalogClock\A165_WinForm AnalogClock\bin\Debug\A171_WinForm AnalogClock.pdb
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A165_WinForm AnalogClock\A165_WinForm AnalogClock\obj\Debug\A165_WinForm AnalogClock.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A165_WinForm AnalogClock\A165_WinForm AnalogClock\obj\Debug\A165_WinForm_AnalogClock.Form1.resources
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A165_WinForm AnalogClock\A165_WinForm AnalogClock\obj\Debug\A171_WinForm_AnalogClock.Properties.Resources.resources
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A165_WinForm AnalogClock\A165_WinForm AnalogClock\obj\Debug\A165_WinForm AnalogClock.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A165_WinForm AnalogClock\A165_WinForm AnalogClock\obj\Debug\A165_WinForm AnalogClock.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A165_WinForm AnalogClock\A165_WinForm AnalogClock\obj\Debug\A171_WinForm AnalogClock.exe
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A165_WinForm AnalogClock\A165_WinForm AnalogClock\obj\Debug\A171_WinForm AnalogClock.pdb

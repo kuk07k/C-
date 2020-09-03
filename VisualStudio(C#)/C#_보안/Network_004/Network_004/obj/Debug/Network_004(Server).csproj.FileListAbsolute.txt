@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Network_004\Network_004\bin\Debug\Network_004.exe.config
+C:\Users\admin\source\repos\Network_004\Network_004\bin\Debug\Network_004.exe
+C:\Users\admin\source\repos\Network_004\Network_004\bin\Debug\Network_004.pdb
+C:\Users\admin\source\repos\Network_004\Network_004\obj\Debug\Network_004(Server).csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Network_004\Network_004\obj\Debug\Network_004(Server).csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Network_004\Network_004\obj\Debug\Network_004.exe
+C:\Users\admin\source\repos\Network_004\Network_004\obj\Debug\Network_004.pdb

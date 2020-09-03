@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A107_IComparable\A107_IComparable\bin\Debug\A130_Linq.exe.config
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A107_IComparable\A107_IComparable\bin\Debug\A130_Linq.exe
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A107_IComparable\A107_IComparable\bin\Debug\A130_Linq.pdb
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A107_IComparable\A107_IComparable\obj\Debug\A107_IComapable.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A107_IComparable\A107_IComparable\obj\Debug\A107_IComapable.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A107_IComparable\A107_IComparable\obj\Debug\A130_Linq.exe
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A107_IComparable\A107_IComparable\obj\Debug\A130_Linq.pdb

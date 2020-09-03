@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A187_Omok\A187_Omok\bin\Debug\A195_Omok.exe.config
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A187_Omok\A187_Omok\bin\Debug\A195_Omok.exe
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A187_Omok\A187_Omok\bin\Debug\A195_Omok.pdb
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A187_Omok\A187_Omok\obj\Debug\A187_Omok.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A187_Omok\A187_Omok\obj\Debug\A187_Omok.Form1.resources
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A187_Omok\A187_Omok\obj\Debug\A195_Omok.Properties.Resources.resources
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A187_Omok\A187_Omok\obj\Debug\A187_Omok.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A187_Omok\A187_Omok\obj\Debug\A187_Omok.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A187_Omok\A187_Omok\obj\Debug\A195_Omok.exe
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A187_Omok\A187_Omok\obj\Debug\A195_Omok.pdb

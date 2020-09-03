@@ -1,0 +1,10 @@
+C:\Users\bikan\Dropbox\2018\InfoPub\Source\Blinker\Blinker\bin\Debug\Blinker.exe.config
+C:\Users\bikan\Dropbox\2018\InfoPub\Source\Blinker\Blinker\bin\Debug\Blinker.exe
+C:\Users\bikan\Dropbox\2018\InfoPub\Source\Blinker\Blinker\bin\Debug\Blinker.pdb
+C:\Users\bikan\Dropbox\2018\InfoPub\Source\Blinker\Blinker\obj\Debug\Blinker.csprojAssemblyReference.cache
+C:\Users\bikan\Dropbox\2018\InfoPub\Source\Blinker\Blinker\obj\Debug\Blinker.Form1.resources
+C:\Users\bikan\Dropbox\2018\InfoPub\Source\Blinker\Blinker\obj\Debug\Blinker.Properties.Resources.resources
+C:\Users\bikan\Dropbox\2018\InfoPub\Source\Blinker\Blinker\obj\Debug\Blinker.csproj.GenerateResource.cache
+C:\Users\bikan\Dropbox\2018\InfoPub\Source\Blinker\Blinker\obj\Debug\Blinker.csproj.CoreCompileInputs.cache
+C:\Users\bikan\Dropbox\2018\InfoPub\Source\Blinker\Blinker\obj\Debug\Blinker.exe
+C:\Users\bikan\Dropbox\2018\InfoPub\Source\Blinker\Blinker\obj\Debug\Blinker.pdb

@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A135_RadioButton\A135_RadioBox\bin\Debug\A109_RadioBox.exe.config
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A135_RadioButton\A135_RadioBox\bin\Debug\A109_RadioBox.exe
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A135_RadioButton\A135_RadioBox\bin\Debug\A109_RadioBox.pdb
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A135_RadioButton\A135_RadioBox\obj\Debug\A135_RadioBox.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A135_RadioButton\A135_RadioBox\obj\Debug\A135_RadioBox.Form1.resources
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A135_RadioButton\A135_RadioBox\obj\Debug\A109_RadioBox.Properties.Resources.resources
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A135_RadioButton\A135_RadioBox\obj\Debug\A135_RadioBox.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A135_RadioButton\A135_RadioBox\obj\Debug\A135_RadioBox.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A135_RadioButton\A135_RadioBox\obj\Debug\A109_RadioBox.exe
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A135_RadioButton\A135_RadioBox\obj\Debug\A109_RadioBox.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTimePicker 날짜계산기", "DataTimePicker 날짜계산기\DataTimePicker 날짜계산기.csproj", "{07DAD6E1-5EB4-4AC1-B857-BCFE4B49872B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07DAD6E1-5EB4-4AC1-B857-BCFE4B49872B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DAD6E1-5EB4-4AC1-B857-BCFE4B49872B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DAD6E1-5EB4-4AC1-B857-BCFE4B49872B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DAD6E1-5EB4-4AC1-B857-BCFE4B49872B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E99FAC0-63EF-4BFB-B003-8E21124A1802}
+	EndGlobalSection
+EndGlobal

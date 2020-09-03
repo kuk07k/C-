@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A176_WPFMatchingGame\A176_WPFMatchingGame\bin\Debug\A192_WPFMatchingGame.exe.config
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A176_WPFMatchingGame\A176_WPFMatchingGame\bin\Debug\A192_WPFMatchingGame.exe
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A176_WPFMatchingGame\A176_WPFMatchingGame\bin\Debug\A192_WPFMatchingGame.pdb
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A176_WPFMatchingGame.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A192_WPFMatchingGame_MarkupCompile.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A192_WPFMatchingGame_MarkupCompile.lref
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A192_WPFMatchingGame.g.resources
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A192_WPFMatchingGame.Properties.Resources.resources
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A176_WPFMatchingGame.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A176_WPFMatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A192_WPFMatchingGame.exe
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A192_WPFMatchingGame.pdb

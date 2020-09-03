@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskedTextBox", "MaskedTextBox\MaskedTextBox.csproj", "{ED15A091-155C-44CB-8000-36723B3E8271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED15A091-155C-44CB-8000-36723B3E8271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED15A091-155C-44CB-8000-36723B3E8271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED15A091-155C-44CB-8000-36723B3E8271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED15A091-155C-44CB-8000-36723B3E8271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48DDD625-F02F-4FB6-B418-BEBEE866CBB4}
+	EndGlobalSection
+EndGlobal

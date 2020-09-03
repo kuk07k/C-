@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\20200629_004 try_catch문ㄴ\20200629_004 try_catch문ㄴ\bin\Debug\20200629_004 try_catch문ㄴ.exe.config
+C:\Users\admin\source\repos\20200629_004 try_catch문ㄴ\20200629_004 try_catch문ㄴ\bin\Debug\20200629_004 try_catch문ㄴ.exe
+C:\Users\admin\source\repos\20200629_004 try_catch문ㄴ\20200629_004 try_catch문ㄴ\bin\Debug\20200629_004 try_catch문ㄴ.pdb
+C:\Users\admin\source\repos\20200629_004 try_catch문ㄴ\20200629_004 try_catch문ㄴ\obj\Debug\20200629_004 try_catch문.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\20200629_004 try_catch문ㄴ\20200629_004 try_catch문ㄴ\obj\Debug\20200629_004 try_catch문ㄴ.exe
+C:\Users\admin\source\repos\20200629_004 try_catch문ㄴ\20200629_004 try_catch문ㄴ\obj\Debug\20200629_004 try_catch문ㄴ.pdb
+C:\Users\admin\source\repos\20200629_004\20200629_004 try_catch문ㄴ\bin\Debug\20200629_004 try_catch문ㄴ.exe.config
+C:\Users\admin\source\repos\20200629_004\20200629_004 try_catch문ㄴ\bin\Debug\20200629_004 try_catch문ㄴ.exe
+C:\Users\admin\source\repos\20200629_004\20200629_004 try_catch문ㄴ\bin\Debug\20200629_004 try_catch문ㄴ.pdb
+C:\Users\admin\source\repos\20200629_004\20200629_004 try_catch문ㄴ\obj\Debug\20200629_004 try_catch문.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\20200629_004\20200629_004 try_catch문ㄴ\obj\Debug\20200629_004 try_catch문.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\20200629_004\20200629_004 try_catch문ㄴ\obj\Debug\20200629_004 try_catch문ㄴ.exe
+C:\Users\admin\source\repos\20200629_004\20200629_004 try_catch문ㄴ\obj\Debug\20200629_004 try_catch문ㄴ.pdb

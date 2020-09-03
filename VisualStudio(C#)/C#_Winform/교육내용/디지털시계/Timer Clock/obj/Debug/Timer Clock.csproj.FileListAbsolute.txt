@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Timer Clock\Timer Clock\bin\Debug\Timer Clock.exe.config
+C:\Users\admin\source\repos\Timer Clock\Timer Clock\bin\Debug\Timer Clock.exe
+C:\Users\admin\source\repos\Timer Clock\Timer Clock\bin\Debug\Timer Clock.pdb
+C:\Users\admin\source\repos\Timer Clock\Timer Clock\obj\Debug\Timer_Clock.Form1.resources
+C:\Users\admin\source\repos\Timer Clock\Timer Clock\obj\Debug\Timer_Clock.Properties.Resources.resources
+C:\Users\admin\source\repos\Timer Clock\Timer Clock\obj\Debug\Timer Clock.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Timer Clock\Timer Clock\obj\Debug\Timer Clock.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Timer Clock\Timer Clock\obj\Debug\Timer Clock.exe
+C:\Users\admin\source\repos\Timer Clock\Timer Clock\obj\Debug\Timer Clock.pdb
+C:\Users\admin\source\repos\Timer Clock\Timer Clock\obj\Debug\Timer Clock.csprojAssemblyReference.cache

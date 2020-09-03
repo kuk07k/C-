@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\컬렉션\컬렉션\bin\Debug\컬렉션.exe.config
+C:\Users\admin\source\repos\컬렉션\컬렉션\bin\Debug\컬렉션.exe
+C:\Users\admin\source\repos\컬렉션\컬렉션\bin\Debug\컬렉션.pdb
+C:\Users\admin\source\repos\컬렉션\컬렉션\obj\Debug\컬렉션.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\컬렉션\컬렉션\obj\Debug\컬렉션.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\컬렉션\컬렉션\obj\Debug\컬렉션.exe
+C:\Users\admin\source\repos\컬렉션\컬렉션\obj\Debug\컬렉션.pdb

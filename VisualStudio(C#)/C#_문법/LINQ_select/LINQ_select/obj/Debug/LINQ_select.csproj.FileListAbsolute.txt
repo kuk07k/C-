@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\LINQ_select\LINQ_select\bin\Debug\LINQ_select.exe.config
+C:\Users\admin\source\repos\LINQ_select\LINQ_select\bin\Debug\LINQ_select.exe
+C:\Users\admin\source\repos\LINQ_select\LINQ_select\bin\Debug\LINQ_select.pdb
+C:\Users\admin\source\repos\LINQ_select\LINQ_select\obj\Debug\LINQ_select.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\LINQ_select\LINQ_select\obj\Debug\LINQ_select.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LINQ_select\LINQ_select\obj\Debug\LINQ_select.exe
+C:\Users\admin\source\repos\LINQ_select\LINQ_select\obj\Debug\LINQ_select.pdb

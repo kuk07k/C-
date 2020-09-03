@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\숫자야구\숫자야구\bin\Debug\숫자야구.exe.config
+C:\Users\admin\source\repos\숫자야구\숫자야구\bin\Debug\숫자야구.exe
+C:\Users\admin\source\repos\숫자야구\숫자야구\bin\Debug\숫자야구.pdb
+C:\Users\admin\source\repos\숫자야구\숫자야구\obj\Debug\숫자야구.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\숫자야구\숫자야구\obj\Debug\숫자야구.Form1.resources
+C:\Users\admin\source\repos\숫자야구\숫자야구\obj\Debug\숫자야구.Properties.Resources.resources
+C:\Users\admin\source\repos\숫자야구\숫자야구\obj\Debug\숫자야구.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\숫자야구\숫자야구\obj\Debug\숫자야구.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\숫자야구\숫자야구\obj\Debug\숫자야구.exe
+C:\Users\admin\source\repos\숫자야구\숫자야구\obj\Debug\숫자야구.pdb

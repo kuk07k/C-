@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C# 200제\A152_WMP\A152_WMP\bin\Debug\A125_PlayMP3.exe.config
+C:\Users\admin\Desktop\C# 200제\A152_WMP\A152_WMP\bin\Debug\A125_PlayMP3.exe
+C:\Users\admin\Desktop\C# 200제\A152_WMP\A152_WMP\bin\Debug\A125_PlayMP3.pdb
+C:\Users\admin\Desktop\C# 200제\A152_WMP\A152_WMP\bin\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\C# 200제\A152_WMP\A152_WMP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\C# 200제\A152_WMP\A152_WMP\obj\Debug\A152_WMP.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\C# 200제\A152_WMP\A152_WMP\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\C# 200제\A152_WMP\A152_WMP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\C# 200제\A152_WMP\A152_WMP\obj\Debug\A152_WMP.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\C# 200제\A152_WMP\A152_WMP\obj\Debug\WMP.Form1.resources
+C:\Users\admin\Desktop\C# 200제\A152_WMP\A152_WMP\obj\Debug\A125_PlayMP3.Properties.Resources.resources
+C:\Users\admin\Desktop\C# 200제\A152_WMP\A152_WMP\obj\Debug\A152_WMP.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\C# 200제\A152_WMP\A152_WMP\obj\Debug\A152_WMP.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C# 200제\A152_WMP\A152_WMP\obj\Debug\A125_PlayMP3.exe
+C:\Users\admin\Desktop\C# 200제\A152_WMP\A152_WMP\obj\Debug\A125_PlayMP3.pdb

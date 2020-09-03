@@ -1,0 +1,20 @@
+C:\Users\admin\Desktop\C# 200제\A136_Login\A136_Login\bin\Debug\A110_Login.exe.config
+C:\Users\admin\Desktop\C# 200제\A136_Login\A136_Login\bin\Debug\A110_Login.exe
+C:\Users\admin\Desktop\C# 200제\A136_Login\A136_Login\bin\Debug\A110_Login.pdb
+C:\Users\admin\Desktop\C# 200제\A136_Login\A136_Login\obj\Debug\A136_Login.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\C# 200제\A136_Login\A136_Login\obj\Debug\A136_Login.Form1.resources
+C:\Users\admin\Desktop\C# 200제\A136_Login\A136_Login\obj\Debug\A110_Login.Properties.Resources.resources
+C:\Users\admin\Desktop\C# 200제\A136_Login\A136_Login\obj\Debug\A136_Login.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\C# 200제\A136_Login\A136_Login\obj\Debug\A136_Login.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C# 200제\A136_Login\A136_Login\obj\Debug\A110_Login.exe
+C:\Users\admin\Desktop\C# 200제\A136_Login\A136_Login\obj\Debug\A110_Login.pdb
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A136_Login\A136_Login\bin\Debug\A110_Login.exe.config
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A136_Login\A136_Login\bin\Debug\A110_Login.exe
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A136_Login\A136_Login\bin\Debug\A110_Login.pdb
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A136_Login\A136_Login\obj\Debug\A136_Login.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A136_Login\A136_Login\obj\Debug\A136_Login.Form1.resources
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A136_Login\A136_Login\obj\Debug\A110_Login.Properties.Resources.resources
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A136_Login\A136_Login\obj\Debug\A136_Login.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A136_Login\A136_Login\obj\Debug\A136_Login.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A136_Login\A136_Login\obj\Debug\A110_Login.exe
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A136_Login\A136_Login\obj\Debug\A110_Login.pdb

@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Network_002(Server)\Network_002(Server)\bin\Debug\Network_002(Server).exe.config
+C:\Users\admin\source\repos\Network_002(Server)\Network_002(Server)\bin\Debug\Network_002(Server).exe
+C:\Users\admin\source\repos\Network_002(Server)\Network_002(Server)\bin\Debug\Network_002(Server).pdb
+C:\Users\admin\source\repos\Network_002(Server)\Network_002(Server)\obj\Debug\Network_002(Server).csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Network_002(Server)\Network_002(Server)\obj\Debug\Network_002(Server).csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Network_002(Server)\Network_002(Server)\obj\Debug\Network_002(Server).exe
+C:\Users\admin\source\repos\Network_002(Server)\Network_002(Server)\obj\Debug\Network_002(Server).pdb

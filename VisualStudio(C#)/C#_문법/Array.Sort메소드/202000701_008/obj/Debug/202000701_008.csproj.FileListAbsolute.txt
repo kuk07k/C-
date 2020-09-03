@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\202000701_008\202000701_008\bin\Debug\202000701_008.exe.config
+C:\Users\admin\source\repos\202000701_008\202000701_008\bin\Debug\202000701_008.exe
+C:\Users\admin\source\repos\202000701_008\202000701_008\bin\Debug\202000701_008.pdb
+C:\Users\admin\source\repos\202000701_008\202000701_008\obj\Debug\202000701_008.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\202000701_008\202000701_008\obj\Debug\202000701_008.exe
+C:\Users\admin\source\repos\202000701_008\202000701_008\obj\Debug\202000701_008.pdb
+C:\Users\admin\source\repos\20200701_008\202000701_008\bin\Debug\202000701_008.exe.config
+C:\Users\admin\source\repos\20200701_008\202000701_008\bin\Debug\202000701_008.exe
+C:\Users\admin\source\repos\20200701_008\202000701_008\bin\Debug\202000701_008.pdb
+C:\Users\admin\source\repos\20200701_008\202000701_008\obj\Debug\202000701_008.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\20200701_008\202000701_008\obj\Debug\202000701_008.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\20200701_008\202000701_008\obj\Debug\202000701_008.exe
+C:\Users\admin\source\repos\20200701_008\202000701_008\obj\Debug\202000701_008.pdb

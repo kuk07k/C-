@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\20200819_WinFrom\20200819_WinFrom\bin\Debug\20200819_WinFrom.exe.config
+C:\Users\admin\source\repos\20200819_WinFrom\20200819_WinFrom\bin\Debug\20200819_WinFrom.exe
+C:\Users\admin\source\repos\20200819_WinFrom\20200819_WinFrom\bin\Debug\20200819_WinFrom.pdb
+C:\Users\admin\source\repos\20200819_WinFrom\20200819_WinFrom\obj\Debug\20200819_WinFrom.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\20200819_WinFrom\20200819_WinFrom\obj\Debug\_20200819_WinFrom.Form2.resources
+C:\Users\admin\source\repos\20200819_WinFrom\20200819_WinFrom\obj\Debug\_20200819_WinFrom.Properties.Resources.resources
+C:\Users\admin\source\repos\20200819_WinFrom\20200819_WinFrom\obj\Debug\20200819_WinFrom.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\20200819_WinFrom\20200819_WinFrom\obj\Debug\20200819_WinFrom.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\20200819_WinFrom\20200819_WinFrom\obj\Debug\20200819_WinFrom.exe
+C:\Users\admin\source\repos\20200819_WinFrom\20200819_WinFrom\obj\Debug\20200819_WinFrom.pdb

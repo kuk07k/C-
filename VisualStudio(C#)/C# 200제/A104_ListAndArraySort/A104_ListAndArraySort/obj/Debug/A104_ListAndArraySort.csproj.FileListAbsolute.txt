@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A104_ListAndArraySort\A104_ListAndArraySort\bin\Debug\A104_ListAndArraySort.exe.config
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A104_ListAndArraySort\A104_ListAndArraySort\bin\Debug\A104_ListAndArraySort.exe
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A104_ListAndArraySort\A104_ListAndArraySort\bin\Debug\A104_ListAndArraySort.pdb
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A104_ListAndArraySort\A104_ListAndArraySort\obj\Debug\A104_ListAndArraySort.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A104_ListAndArraySort\A104_ListAndArraySort\obj\Debug\A104_ListAndArraySort.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A104_ListAndArraySort\A104_ListAndArraySort\obj\Debug\A104_ListAndArraySort.exe
+C:\Users\admin\Desktop\Smart Factory\C#\C# 200제\A104_ListAndArraySort\A104_ListAndArraySort\obj\Debug\A104_ListAndArraySort.pdb

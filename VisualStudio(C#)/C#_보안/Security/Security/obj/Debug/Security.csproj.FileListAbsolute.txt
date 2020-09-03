@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Security\Security\bin\Debug\Security.exe.config
+C:\Users\admin\source\repos\Security\Security\bin\Debug\Security.exe
+C:\Users\admin\source\repos\Security\Security\bin\Debug\Security.pdb
+C:\Users\admin\source\repos\Security\Security\bin\Debug\PacketDotNet.dll
+C:\Users\admin\source\repos\Security\Security\bin\Debug\SharpPcap.dll
+C:\Users\admin\source\repos\Security\Security\obj\Debug\Security.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Security\Security\obj\Debug\Security.Form1.resources
+C:\Users\admin\source\repos\Security\Security\obj\Debug\Security.Properties.Resources.resources
+C:\Users\admin\source\repos\Security\Security\obj\Debug\Security.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Security\Security\obj\Debug\Security.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Security\Security\obj\Debug\Security.csproj.CopyComplete
+C:\Users\admin\source\repos\Security\Security\obj\Debug\Security.exe
+C:\Users\admin\source\repos\Security\Security\obj\Debug\Security.pdb
