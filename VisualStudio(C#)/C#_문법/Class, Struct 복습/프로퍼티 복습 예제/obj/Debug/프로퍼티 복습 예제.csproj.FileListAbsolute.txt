@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\프로퍼티 복습 예제\프로퍼티 복습 예제\bin\Debug\프로퍼티 복습 예제.exe.config
+C:\Users\admin\source\repos\프로퍼티 복습 예제\프로퍼티 복습 예제\bin\Debug\프로퍼티 복습 예제.exe
+C:\Users\admin\source\repos\프로퍼티 복습 예제\프로퍼티 복습 예제\bin\Debug\프로퍼티 복습 예제.pdb
+C:\Users\admin\source\repos\프로퍼티 복습 예제\프로퍼티 복습 예제\obj\Debug\프로퍼티 복습 예제.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\프로퍼티 복습 예제\프로퍼티 복습 예제\obj\Debug\프로퍼티 복습 예제.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\프로퍼티 복습 예제\프로퍼티 복습 예제\obj\Debug\프로퍼티 복습 예제.exe
+C:\Users\admin\source\repos\프로퍼티 복습 예제\프로퍼티 복습 예제\obj\Debug\프로퍼티 복습 예제.pdb

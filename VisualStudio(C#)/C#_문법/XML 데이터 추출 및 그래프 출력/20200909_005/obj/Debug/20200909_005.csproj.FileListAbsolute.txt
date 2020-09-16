@@ -1,0 +1,20 @@
+C:\Users\admin\source\repos\20200909_005\20200909_005\obj\Debug\20200909_005.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\20200909_005\20200909_005\obj\Debug\_20200909_005.Form1.resources
+C:\Users\admin\source\repos\20200909_005\20200909_005\obj\Debug\_20200909_005.Properties.Resources.resources
+C:\Users\admin\source\repos\20200909_005\20200909_005\obj\Debug\20200909_005.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\20200909_005\20200909_005\obj\Debug\20200909_005.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\20200909_005\20200909_005\bin\Debug\20200909_005.exe.config
+C:\Users\admin\source\repos\20200909_005\20200909_005\bin\Debug\20200909_005.exe
+C:\Users\admin\source\repos\20200909_005\20200909_005\bin\Debug\20200909_005.pdb
+C:\Users\admin\source\repos\20200909_005\20200909_005\obj\Debug\20200909_005.exe
+C:\Users\admin\source\repos\20200909_005\20200909_005\obj\Debug\20200909_005.pdb
+C:\Users\admin\Desktop\9월\XML 데이터 추출 및 그래프 출력\20200909_005\bin\Debug\20200909_005.exe.config
+C:\Users\admin\Desktop\9월\XML 데이터 추출 및 그래프 출력\20200909_005\bin\Debug\20200909_005.exe
+C:\Users\admin\Desktop\9월\XML 데이터 추출 및 그래프 출력\20200909_005\bin\Debug\20200909_005.pdb
+C:\Users\admin\Desktop\9월\XML 데이터 추출 및 그래프 출력\20200909_005\obj\Debug\20200909_005.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\9월\XML 데이터 추출 및 그래프 출력\20200909_005\obj\Debug\_20200909_005.Form1.resources
+C:\Users\admin\Desktop\9월\XML 데이터 추출 및 그래프 출력\20200909_005\obj\Debug\_20200909_005.Properties.Resources.resources
+C:\Users\admin\Desktop\9월\XML 데이터 추출 및 그래프 출력\20200909_005\obj\Debug\20200909_005.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\9월\XML 데이터 추출 및 그래프 출력\20200909_005\obj\Debug\20200909_005.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\9월\XML 데이터 추출 및 그래프 출력\20200909_005\obj\Debug\20200909_005.exe
+C:\Users\admin\Desktop\9월\XML 데이터 추출 및 그래프 출력\20200909_005\obj\Debug\20200909_005.pdb
