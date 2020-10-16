@@ -12,3 +12,10 @@ C:\Users\admin\Desktop\9월\정수 2개 입력받아서 연산 (메소드 활용
 C:\Users\admin\Desktop\9월\정수 2개 입력받아서 연산 (메소드 활용)\20200915_005\obj\Debug\20200915_005.csproj.CoreCompileInputs.cache
 C:\Users\admin\Desktop\9월\정수 2개 입력받아서 연산 (메소드 활용)\20200915_005\obj\Debug\20200915_005.exe
 C:\Users\admin\Desktop\9월\정수 2개 입력받아서 연산 (메소드 활용)\20200915_005\obj\Debug\20200915_005.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\정수 2개 입력받아서 연산 (메소드 활용)\20200915_005\bin\Debug\20200915_005.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\정수 2개 입력받아서 연산 (메소드 활용)\20200915_005\bin\Debug\20200915_005.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\정수 2개 입력받아서 연산 (메소드 활용)\20200915_005\bin\Debug\20200915_005.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\정수 2개 입력받아서 연산 (메소드 활용)\20200915_005\obj\Debug\20200915_005.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\정수 2개 입력받아서 연산 (메소드 활용)\20200915_005\obj\Debug\20200915_005.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\정수 2개 입력받아서 연산 (메소드 활용)\20200915_005\obj\Debug\20200915_005.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\정수 2개 입력받아서 연산 (메소드 활용)\20200915_005\obj\Debug\20200915_005.pdb

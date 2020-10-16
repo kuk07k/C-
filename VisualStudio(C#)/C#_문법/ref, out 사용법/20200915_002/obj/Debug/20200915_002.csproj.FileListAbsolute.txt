@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\20200915_002\20200915_002\obj\Debug\20200915_002.csp
 C:\Users\admin\source\repos\20200915_002\20200915_002\obj\Debug\20200915_002.exe
 C:\Users\admin\source\repos\20200915_002\20200915_002\obj\Debug\20200915_002.pdb
 C:\Users\admin\source\repos\20200915_002\20200915_002\obj\Debug\20200915_002.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\ref, out 사용법\20200915_002\bin\Debug\20200915_002.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\ref, out 사용법\20200915_002\bin\Debug\20200915_002.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\ref, out 사용법\20200915_002\bin\Debug\20200915_002.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\ref, out 사용법\20200915_002\obj\Debug\20200915_002.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\ref, out 사용법\20200915_002\obj\Debug\20200915_002.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\ref, out 사용법\20200915_002\obj\Debug\20200915_002.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\ref, out 사용법\20200915_002\obj\Debug\20200915_002.pdb

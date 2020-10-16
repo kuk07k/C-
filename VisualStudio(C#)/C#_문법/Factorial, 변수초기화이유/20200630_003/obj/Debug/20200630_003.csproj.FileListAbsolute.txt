@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\20200630_003\20200630_003\obj\Debug\20200630_003.csp
 C:\Users\admin\source\repos\20200630_003\20200630_003\obj\Debug\20200630_003.exe
 C:\Users\admin\source\repos\20200630_003\20200630_003\obj\Debug\20200630_003.pdb
 C:\Users\admin\source\repos\20200630_003\20200630_003\obj\Debug\20200630_003.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Factorial, 변수초기화이유\20200630_003\bin\Debug\20200630_003.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Factorial, 변수초기화이유\20200630_003\bin\Debug\20200630_003.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Factorial, 변수초기화이유\20200630_003\bin\Debug\20200630_003.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Factorial, 변수초기화이유\20200630_003\obj\Debug\20200630_003.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Factorial, 변수초기화이유\20200630_003\obj\Debug\20200630_003.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Factorial, 변수초기화이유\20200630_003\obj\Debug\20200630_003.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Factorial, 변수초기화이유\20200630_003\obj\Debug\20200630_003.pdb

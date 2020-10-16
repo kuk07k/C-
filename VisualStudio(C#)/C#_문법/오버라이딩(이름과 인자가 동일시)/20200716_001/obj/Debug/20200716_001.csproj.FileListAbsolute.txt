@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\20200716_001\20200716_001\bin\Debug\20200716_001.exe
 C:\Users\admin\source\repos\20200716_001\20200716_001\bin\Debug\20200716_001.pdb
 C:\Users\admin\source\repos\20200716_001\20200716_001\obj\Debug\20200716_001.exe
 C:\Users\admin\source\repos\20200716_001\20200716_001\obj\Debug\20200716_001.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\오버라이딩(이름과 인자가 동일시)\20200716_001\bin\Debug\20200716_001.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\오버라이딩(이름과 인자가 동일시)\20200716_001\bin\Debug\20200716_001.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\오버라이딩(이름과 인자가 동일시)\20200716_001\bin\Debug\20200716_001.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\오버라이딩(이름과 인자가 동일시)\20200716_001\obj\Debug\20200716_001.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\오버라이딩(이름과 인자가 동일시)\20200716_001\obj\Debug\20200716_001.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\오버라이딩(이름과 인자가 동일시)\20200716_001\obj\Debug\20200716_001.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\오버라이딩(이름과 인자가 동일시)\20200716_001\obj\Debug\20200716_001.pdb

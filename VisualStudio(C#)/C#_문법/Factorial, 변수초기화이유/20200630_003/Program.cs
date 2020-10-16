@@ -29,10 +29,10 @@ namespace _20200630_003
             //============= 변수 초기화하는 이유 ==============//
             //=================================================//
 
-            // int localVar = 10;
-            // int unInitVar;
-            // Console.WriteLine(localVar);
-            // Console.WriteLine(unInitVar);
+            int localVar = 10;
+            int unInitVar;
+            Console.WriteLine(localVar);
+            Console.WriteLine(unInitVar);
 
             // 메소드안에 만들어지는 변수 : 지역변수
             // 지역변수안에 값을 안넣어줬기때문에

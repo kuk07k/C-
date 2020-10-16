@@ -75,7 +75,7 @@ namespace _220200717_001
                 }
                 finally
                 {
-                    Console.WriteLine("이건 예외가 있던 없던 무조건 거쳐감");
+                    Console.WriteLine("다시입력해주세용----이건 예외가 있던 없던 무조건 거쳐감");
                 }
                 break;
             }

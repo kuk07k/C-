@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\20200701_005\20200701_005\obj\Debug\20200701_005.csp
 C:\Users\admin\source\repos\20200701_005\20200701_005\obj\Debug\20200701_005.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\20200701_005\20200701_005\obj\Debug\20200701_005.exe
 C:\Users\admin\source\repos\20200701_005\20200701_005\obj\Debug\20200701_005.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\배열생성\20200701_005\bin\Debug\20200701_005.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\배열생성\20200701_005\bin\Debug\20200701_005.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\배열생성\20200701_005\bin\Debug\20200701_005.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\배열생성\20200701_005\obj\Debug\20200701_005.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\배열생성\20200701_005\obj\Debug\20200701_005.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\배열생성\20200701_005\obj\Debug\20200701_005.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\배열생성\20200701_005\obj\Debug\20200701_005.pdb

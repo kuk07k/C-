@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\20200713_003\20200713_003\obj\Debug\20200713_003.csp
 C:\Users\admin\source\repos\20200713_003\20200713_003\obj\Debug\20200713_003.exe
 C:\Users\admin\source\repos\20200713_003\20200713_003\obj\Debug\20200713_003.pdb
 C:\Users\admin\source\repos\20200713_003\20200713_003\obj\Debug\20200713_003.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\배열 메소드로 복사\20200713_003\bin\Debug\20200713_003.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\배열 메소드로 복사\20200713_003\bin\Debug\20200713_003.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\배열 메소드로 복사\20200713_003\bin\Debug\20200713_003.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\배열 메소드로 복사\20200713_003\obj\Debug\20200713_003.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\배열 메소드로 복사\20200713_003\obj\Debug\20200713_003.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\배열 메소드로 복사\20200713_003\obj\Debug\20200713_003.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\배열 메소드로 복사\20200713_003\obj\Debug\20200713_003.pdb

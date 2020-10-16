@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\20200727_002\20200727_002\obj\Debug\20200727_002.csp
 C:\Users\admin\source\repos\20200727_002\20200727_002\obj\Debug\20200727_002.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\20200727_002\20200727_002\obj\Debug\20200727_002.exe
 C:\Users\admin\source\repos\20200727_002\20200727_002\obj\Debug\20200727_002.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\unsafe\20200727_002\bin\Debug\20200727_002.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\unsafe\20200727_002\bin\Debug\20200727_002.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\unsafe\20200727_002\bin\Debug\20200727_002.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\unsafe\20200727_002\obj\Debug\20200727_002.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\unsafe\20200727_002\obj\Debug\20200727_002.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\unsafe\20200727_002\obj\Debug\20200727_002.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\unsafe\20200727_002\obj\Debug\20200727_002.pdb

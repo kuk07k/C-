@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\20200630_004\20200630_004\obj\Debug\20200630_004.csp
 C:\Users\admin\source\repos\20200630_004\20200630_004\obj\Debug\20200630_004.exe
 C:\Users\admin\source\repos\20200630_004\20200630_004\obj\Debug\20200630_004.pdb
 C:\Users\admin\source\repos\20200630_004\20200630_004\obj\Debug\20200630_004.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\변수 3가지 종류\20200630_004\bin\Debug\20200630_004.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\변수 3가지 종류\20200630_004\bin\Debug\20200630_004.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\변수 3가지 종류\20200630_004\bin\Debug\20200630_004.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\변수 3가지 종류\20200630_004\obj\Debug\20200630_004.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\변수 3가지 종류\20200630_004\obj\Debug\20200630_004.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\변수 3가지 종류\20200630_004\obj\Debug\20200630_004.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\변수 3가지 종류\20200630_004\obj\Debug\20200630_004.pdb

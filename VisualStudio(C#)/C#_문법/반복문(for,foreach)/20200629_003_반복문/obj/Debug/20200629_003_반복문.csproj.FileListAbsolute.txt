@@ -12,3 +12,10 @@ C:\Users\admin\source\repos\20200629_003\20200629_003_반복문\obj\Debug\202006
 C:\Users\admin\source\repos\20200629_003\20200629_003_반복문\obj\Debug\20200629_003_반복문.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\20200629_003\20200629_003_반복문\obj\Debug\20200629_003_반복문.exe
 C:\Users\admin\source\repos\20200629_003\20200629_003_반복문\obj\Debug\20200629_003_반복문.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\반복문(for,foreach)\20200629_003_반복문\bin\Debug\20200629_003_반복문.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\반복문(for,foreach)\20200629_003_반복문\bin\Debug\20200629_003_반복문.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\반복문(for,foreach)\20200629_003_반복문\bin\Debug\20200629_003_반복문.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\반복문(for,foreach)\20200629_003_반복문\obj\Debug\20200629_003_반복문.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\반복문(for,foreach)\20200629_003_반복문\obj\Debug\20200629_003_반복문.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\반복문(for,foreach)\20200629_003_반복문\obj\Debug\20200629_003_반복문.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\반복문(for,foreach)\20200629_003_반복문\obj\Debug\20200629_003_반복문.pdb

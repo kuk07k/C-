@@ -20,7 +20,6 @@ namespace _20200629_004_try_catch문
                 b = int.Parse(Console.ReadLine());
                 c = a / b;
             }
-
             // Catch 여러개 가능
             // catch 문의 인자부분이 달라야한다 
             // Try에서 문제 발생시
@@ -39,7 +38,6 @@ namespace _20200629_004_try_catch문
                 Console.WriteLine("변수의 값이 올바르지 않습니다.");
                 Environment.Exit(0);
             }
-
             // 에러가 발생하지 않을시 여기로 점프 (생략가능)
             // catch문갔다가도 실행 
             // 그렇기때문에 catch문에서 exit 실행

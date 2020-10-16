@@ -88,7 +88,7 @@ namespace _20200915_005
             string command = Console.ReadLine();
 
             // 계산, 출력하는 구문
-            int result = step3(command, iNum1, iNum2);
+            int result = step1(command, iNum1, iNum2);
             Console.WriteLine(command + $"의 결과는 : {result} 입니다.");
         }
     }

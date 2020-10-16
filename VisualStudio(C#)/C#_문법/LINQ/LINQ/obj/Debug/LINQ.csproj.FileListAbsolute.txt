@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe
 C:\Users\admin\source\repos\LINQ\LINQ\bin\Debug\LINQ.pdb
 C:\Users\admin\source\repos\LINQ\LINQ\obj\Debug\LINQ.exe
 C:\Users\admin\source\repos\LINQ\LINQ\obj\Debug\LINQ.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\LINQ\LINQ\obj\Debug\LINQ.pdb

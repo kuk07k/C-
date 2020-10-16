@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\20200701_001\20200701_001\obj\Debug\20200701_001.csp
 C:\Users\admin\source\repos\20200701_001\20200701_001\obj\Debug\20200701_001.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\20200701_001\20200701_001\obj\Debug\20200701_001.exe
 C:\Users\admin\source\repos\20200701_001\20200701_001\obj\Debug\20200701_001.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\out\20200701_001\bin\Debug\20200701_001.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\out\20200701_001\bin\Debug\20200701_001.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\out\20200701_001\bin\Debug\20200701_001.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\out\20200701_001\obj\Debug\20200701_001.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\out\20200701_001\obj\Debug\20200701_001.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\out\20200701_001\obj\Debug\20200701_001.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\out\20200701_001\obj\Debug\20200701_001.pdb

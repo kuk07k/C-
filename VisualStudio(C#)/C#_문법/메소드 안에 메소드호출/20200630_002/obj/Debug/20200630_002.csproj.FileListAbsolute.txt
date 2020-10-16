@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\20200630_002\20200630_002\obj\Debug\20200630_002.csp
 C:\Users\admin\source\repos\20200630_002\20200630_002\obj\Debug\20200630_002.exe
 C:\Users\admin\source\repos\20200630_002\20200630_002\obj\Debug\20200630_002.pdb
 C:\Users\admin\source\repos\20200630_002\20200630_002\obj\Debug\20200630_002.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\메소드 안에 메소드호출\20200630_002\bin\Debug\20200630_002.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\메소드 안에 메소드호출\20200630_002\bin\Debug\20200630_002.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\메소드 안에 메소드호출\20200630_002\bin\Debug\20200630_002.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\메소드 안에 메소드호출\20200630_002\obj\Debug\20200630_002.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\메소드 안에 메소드호출\20200630_002\obj\Debug\20200630_002.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\메소드 안에 메소드호출\20200630_002\obj\Debug\20200630_002.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\메소드 안에 메소드호출\20200630_002\obj\Debug\20200630_002.pdb

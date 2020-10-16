@@ -13,11 +13,20 @@ namespace _20200701_003
             Console.WriteLine("[가변 인자 개수]   : " + arr.Length);
 
             Console.Write("[인자 전체]  : ");
-            foreach (object one in arr)
+            foreach (var one in arr)
             {
                 Console.Write(one.ToString() + " ");
             }
             Console.WriteLine();
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Type t = arr[i].GetType();
+                if (t.Equals(typeof(string)))
+                {
+                    Console.WriteLine(arr[i]);
+                }
+            }
 
             Console.Write("[문자열 타입] : ");
             for(int i = 0; i < arr.Length; ++i)

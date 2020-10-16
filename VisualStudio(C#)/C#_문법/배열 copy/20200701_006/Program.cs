@@ -16,7 +16,7 @@ namespace _20200701_006
             Original[3] = Original[1] + Original[2];
 
             long CopyValue = Copy[3];
-            Console.WriteLine("2 : " + Copy[3]);
+            Console.WriteLine("2 : " + CopyValue);
         }
     }
 }

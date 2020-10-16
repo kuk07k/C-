@@ -10,34 +10,22 @@ namespace _20200629_001
     {
         static void Main(string[] args)
         {
-            int point;
-            string result;
+            int[] array = new int[5] { 1, 5, 667, 24, 3 };
+            foreach (var item in array)
+            {
+                Console.WriteLine(item);
+            }
 
-            Console.Write("점수를 입력하세요 : ");
-            point = int.Parse(Console.ReadLine());
+            int[] array2 = new int[3];
+            array2 = { 23,454};
 
-            if(point > 90)
+            int result = 0;
+
+            for (int i = 0; i < array2.Length; i++)
             {
-                result = "A";
+                result = result + array2[i];
+                Console.WriteLine(result);
             }
-            else if(point > 80)
-            {
-                result = "B";
-            }
-            else if (point > 70)
-            {
-                result = "C";
-            }
-            else if (point > 60)
-            {
-                result = "D";
-            }
-            else
-            {
-                result = "F";
-            }
-            Console.WriteLine("당신의 점수는 {0}입니다.", point);
-            Console.WriteLine("그리고 학점은 {0}입니다.", result);
         }
     }
 }

@@ -37,17 +37,17 @@ namespace _20200915_002
 
         static void Main(string[] args)
         {
-            //int inum1 = 1000;
-            //int inum2 = 2000;
-            //test1(inum1, ref inum2); // iArg2 == inum2
-            //Console.WriteLine(inum1);
-            //Console.WriteLine(inum2);
-
             int inum1 = 1000;
-            int inum2;
-            test2(inum1, out inum2); // iArg2 == inum2
+            int inum2 = 2000;
+            test1(inum1, ref inum2); // iArg2 == inum2
             Console.WriteLine(inum1);
             Console.WriteLine(inum2);
+
+            //int inum1 = 1000;
+            //int inum2;
+            //test2(inum1, out inum2); // iArg2 == inum2
+            //Console.WriteLine(inum1);
+            //Console.WriteLine(inum2);
         }
     }
 }

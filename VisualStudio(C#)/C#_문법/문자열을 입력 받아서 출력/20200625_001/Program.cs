@@ -11,6 +11,10 @@ namespace _20200625_001
         //Main 메소드의 인자/인수/매개변수 : 1개, 이름 : args
         //static : 정적 (Program에 객체가 없지만 Main에 접근하기 위해서)
         {
+            foreach (var item in args)
+            {
+                Console.Write(item);
+            }
             Console.WriteLine("지옥으로 키티");
             Console.WriteLine(args[0]);//솔루션이름 - 속성 - 디버그 || 프로젝트 - 프로젝트 속성
             Console.WriteLine(args[1]);//Main의 인자는 운영체제가 정해줌

@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\220200717_001\220200717_001\obj\Debug\220200717_001.
 C:\Users\admin\source\repos\220200717_001\220200717_001\obj\Debug\220200717_001.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\220200717_001\220200717_001\obj\Debug\220200717_001.exe
 C:\Users\admin\source\repos\220200717_001\220200717_001\obj\Debug\220200717_001.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\복습(Try,Catch,if문,입출력)\220200717_001\bin\Debug\220200717_001.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\복습(Try,Catch,if문,입출력)\220200717_001\bin\Debug\220200717_001.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\복습(Try,Catch,if문,입출력)\220200717_001\bin\Debug\220200717_001.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\복습(Try,Catch,if문,입출력)\220200717_001\obj\Debug\220200717_001.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\복습(Try,Catch,if문,입출력)\220200717_001\obj\Debug\220200717_001.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\복습(Try,Catch,if문,입출력)\220200717_001\obj\Debug\220200717_001.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\복습(Try,Catch,if문,입출력)\220200717_001\obj\Debug\220200717_001.pdb

@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\20200716_002\20200716_002\obj\Debug\20200716_002.csp
 C:\Users\admin\source\repos\20200716_002\20200716_002\obj\Debug\20200716_002.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\20200716_002\20200716_002\obj\Debug\20200716_002.exe
 C:\Users\admin\source\repos\20200716_002\20200716_002\obj\Debug\20200716_002.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\추상클래스,메소드\20200716_002\bin\Debug\20200716_002.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\추상클래스,메소드\20200716_002\bin\Debug\20200716_002.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\추상클래스,메소드\20200716_002\bin\Debug\20200716_002.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\추상클래스,메소드\20200716_002\obj\Debug\20200716_002.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\추상클래스,메소드\20200716_002\obj\Debug\20200716_002.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\추상클래스,메소드\20200716_002\obj\Debug\20200716_002.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\추상클래스,메소드\20200716_002\obj\Debug\20200716_002.pdb

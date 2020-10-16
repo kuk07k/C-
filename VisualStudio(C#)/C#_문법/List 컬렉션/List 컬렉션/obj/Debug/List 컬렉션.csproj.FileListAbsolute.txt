@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\List 컬렉션\List 컬렉션\obj\Debug\List 컬렉�
 C:\Users\admin\source\repos\List 컬렉션\List 컬렉션\obj\Debug\List 컬렉션.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\List 컬렉션\List 컬렉션\obj\Debug\List 컬렉션.exe
 C:\Users\admin\source\repos\List 컬렉션\List 컬렉션\obj\Debug\List 컬렉션.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\List 컬렉션\List 컬렉션\bin\Debug\List 컬렉션.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\List 컬렉션\List 컬렉션\bin\Debug\List 컬렉션.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\List 컬렉션\List 컬렉션\bin\Debug\List 컬렉션.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\List 컬렉션\List 컬렉션\obj\Debug\List 컬렉션.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\List 컬렉션\List 컬렉션\obj\Debug\List 컬렉션.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\List 컬렉션\List 컬렉션\obj\Debug\List 컬렉션.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\List 컬렉션\List 컬렉션\obj\Debug\List 컬렉션.pdb

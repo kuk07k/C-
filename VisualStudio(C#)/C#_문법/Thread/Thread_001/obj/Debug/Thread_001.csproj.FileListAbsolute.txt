@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\Thread_001\Thread_001\obj\Debug\Thread_001.csprojAss
 C:\Users\admin\source\repos\Thread_001\Thread_001\obj\Debug\Thread_001.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\Thread_001\Thread_001\obj\Debug\Thread_001.exe
 C:\Users\admin\source\repos\Thread_001\Thread_001\obj\Debug\Thread_001.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Thread\Thread_001\bin\Debug\Thread_001.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Thread\Thread_001\bin\Debug\Thread_001.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Thread\Thread_001\bin\Debug\Thread_001.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Thread\Thread_001\obj\Debug\Thread_001.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Thread\Thread_001\obj\Debug\Thread_001.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Thread\Thread_001\obj\Debug\Thread_001.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Thread\Thread_001\obj\Debug\Thread_001.pdb

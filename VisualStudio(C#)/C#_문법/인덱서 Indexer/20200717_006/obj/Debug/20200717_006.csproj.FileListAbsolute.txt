@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\20200717_006\20200717_006\obj\Debug\20200717_006.csp
 C:\Users\admin\source\repos\20200717_006\20200717_006\obj\Debug\20200717_006.exe
 C:\Users\admin\source\repos\20200717_006\20200717_006\obj\Debug\20200717_006.pdb
 C:\Users\admin\source\repos\20200717_006\20200717_006\obj\Debug\20200717_006.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\인덱서 Indexer\20200717_006\bin\Debug\20200717_006.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\인덱서 Indexer\20200717_006\bin\Debug\20200717_006.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\인덱서 Indexer\20200717_006\bin\Debug\20200717_006.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\인덱서 Indexer\20200717_006\obj\Debug\20200717_006.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\인덱서 Indexer\20200717_006\obj\Debug\20200717_006.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\인덱서 Indexer\20200717_006\obj\Debug\20200717_006.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\인덱서 Indexer\20200717_006\obj\Debug\20200717_006.pdb

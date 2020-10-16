@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\20200701_009\20200701_009\obj\Debug\20200701_009.csp
 C:\Users\admin\source\repos\20200701_009\20200701_009\obj\Debug\20200701_009.exe
 C:\Users\admin\source\repos\20200701_009\20200701_009\obj\Debug\20200701_009.pdb
 C:\Users\admin\source\repos\20200701_009\20200701_009\obj\Debug\20200701_009.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Array.Clear메소드\20200701_009\bin\Debug\20200701_009.exe.config
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Array.Clear메소드\20200701_009\bin\Debug\20200701_009.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Array.Clear메소드\20200701_009\bin\Debug\20200701_009.pdb
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Array.Clear메소드\20200701_009\obj\Debug\20200701_009.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Array.Clear메소드\20200701_009\obj\Debug\20200701_009.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Array.Clear메소드\20200701_009\obj\Debug\20200701_009.exe
+C:\Users\admin\Desktop\교육내용\VisualStudio\VisualStudio(C#)\C#_문법\Array.Clear메소드\20200701_009\obj\Debug\20200701_009.pdb

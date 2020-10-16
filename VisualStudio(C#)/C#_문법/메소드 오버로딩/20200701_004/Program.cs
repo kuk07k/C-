@@ -58,6 +58,9 @@ namespace _20200701_004
 
             return num33;
         }
+
+
+
         static void Main(string[] args)
         {
             int Num1 = 3;
@@ -68,9 +71,9 @@ namespace _20200701_004
             int inum4 = AddInt(5, 6);
             Console.WriteLine("{0} + {1} = {2} ", 5, 6, inum4);
             float fnum3 = AddFloat(5.1f, 6.1f);
-            Console.WriteLine("{0} + {1} = {2} ", 5.1f, 6.1f, inum4);
+            Console.WriteLine("{0} + {1} = {2} ", 5.1f, 6.1f, fnum3);
             double dnum4 = Adddouble(5.1, 6.1);
-            Console.WriteLine("{0} + {1} = {2} ", 5.1, 6.1, inum4);
+            Console.WriteLine("{0} + {1} = {2} ", 5.1, 6.1, dnum4);
         }
     }
 }
